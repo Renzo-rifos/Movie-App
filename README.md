@@ -15,8 +15,7 @@ A movie search and discovery app built with React 19 and the TMDB API, with tren
 | Home | Search Results |
 |------|----------------|
 | ![home](<img width="1889" height="1071" alt="image" src="https://github.com/user-attachments/assets/a39fed06-8d4c-46c0-b33a-40b83a09d17a" />
-) | ![search]  <img width="917" height="1038" alt="image" src="https://github.com/user-attachments/assets/48431aed-169b-4f06-9816-2865d34040c7" />
- |
+ | ![search]  <img width="917" height="1038" alt="image" src="https://github.com/user-attachments/assets/48431aed-169b-4f06-9816-2865d34040c7" />
 
 ---
 
